@@ -6,6 +6,11 @@
     },
     "item": [
         {
+            "name": "New Folder",
+            "item": [],
+            "id": "8a53a3a8-2d28-4518-985b-a566c698a279"
+        },
+        {
             "name": "Sample endpoint: Returns details about a particular user . Hello world. Added more text",
             "event": [
                 {
