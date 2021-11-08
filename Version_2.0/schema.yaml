@@ -1,7 +1,7 @@
 openapi: 3.0.0
 info:
   title: Orders
-  description: 'This is some additional content. This is some additional content. Hello'
+  description: 'This is some additional content. This is some additional content. Hello GOODLUCK'
   version: '1.0'
 servers:
 - url: '{{ordersUrl}}'
